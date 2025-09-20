@@ -1,11 +1,25 @@
 ### **TASK 2 - System requirements & TOOLS INSTALLMENT**
 
+###  **Install Oracle VirtualBox**
+
+1. Download VirtualBox from the official website:  
+   [VirtualBox Downloads](https://www.virtualbox.org/wiki/Downloads)
+2. Install it using the downloaded installer:
+   - *Windows / Mac:* Follow the graphical installer instructions.  
+   - *Linux:* Use your package manager, e.g., for Ubuntu:  
+     bash
+     sudo apt-get update
+     sudo apt-get install virtualbox
+     
+
+---
+
 ### System Requirements
 - **Operating System**: Ubuntu 20.04 or higher
 - **Memory (RAM)**: 6 GB minimum
 - **Storage**: 50 GB HDD
 - **CPU**: 4 vCPU (or equivalent multi-core processor)
-
+---
 
 ### TOOLS Installation Instructions
 #### **Yosys**
