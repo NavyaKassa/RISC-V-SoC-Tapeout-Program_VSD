@@ -66,7 +66,9 @@ This phase converts the RTL into a physical chip layout.
   <img src="./image/summary.jpg" width="400"/>
   <img src="./image/summary2.png" width="400"/>
 </p>
-
+<p align="center">
+  <i>Figure 1 & 2: High-level SoC design and integration diagrams</i>
+</p>
 
 This flow ensures a smooth transition from a high-level idea to a real silicon chip
 
