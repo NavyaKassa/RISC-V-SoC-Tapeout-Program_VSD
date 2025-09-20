@@ -23,18 +23,18 @@ $ make config-gcc
 $ make
 $ sudo make install
 ```
-![Alt text](Images/yosys_installation.png)
+![Alt text](image/yosys_installation.png)
 
 #### **Iverilog**
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt text](Images/iverilog_installation.png)
+![Alt text](image/iverilog_installation.png)
 #### **gtkwave**
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt text](Images/gtkwave_installation.png)
+![Alt text](image/gtkwave_installation.png)
 
